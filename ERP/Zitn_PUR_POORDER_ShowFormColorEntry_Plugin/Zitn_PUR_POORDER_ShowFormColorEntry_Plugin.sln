@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36631.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zitn_PUR_POORDER_ShowFormColorEntry_Plugin", "Zitn_PUR_POORDER_ShowFormColorEntry_Plugin\Zitn_PUR_POORDER_ShowFormColorEntry_Plugin.csproj", "{81B1F10F-D5C4-4DA6-B37B-8234050FCB04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B1F10F-D5C4-4DA6-B37B-8234050FCB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B1F10F-D5C4-4DA6-B37B-8234050FCB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B1F10F-D5C4-4DA6-B37B-8234050FCB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B1F10F-D5C4-4DA6-B37B-8234050FCB04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6359C77-AEE8-4D44-B77D-4160A3E205AF}
+	EndGlobalSection
+EndGlobal
