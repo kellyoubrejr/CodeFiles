@@ -11,7 +11,7 @@ using K3Cloud.PlnForecastConvertSalOrder.WebApi.Models;
 namespace K3Cloud.PlnForecastConvertSalOrder.WebApi
 {
     [Description("【预测-->销售MRP接口】查询销售上预测分录id，方法入参接口传入进来的json数据包，" +
-        "调用预测下推销售接口保存操作"), HotUpdate]
+        "调用预测下推销售接口保存操作。"), HotUpdate]
     public class ConvertService : AbstractWebApiBusinessService
     {
         public ConvertService(KDServiceContext context)
