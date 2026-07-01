@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36631.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zitn_DBSQD_Audit_To_ZJDB_Operation_Plugin", "Zitn_DBSQD_Audit_To_ZJDB_Operation_Plugin\Zitn_DBSQD_Audit_To_ZJDB_Operation_Plugin.csproj", "{925BFFBC-A1B6-4A1F-9480-6C7A0C672414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{925BFFBC-A1B6-4A1F-9480-6C7A0C672414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925BFFBC-A1B6-4A1F-9480-6C7A0C672414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925BFFBC-A1B6-4A1F-9480-6C7A0C672414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925BFFBC-A1B6-4A1F-9480-6C7A0C672414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {549A6FB5-5BC8-4C30-BC32-907B50F20B44}
+	EndGlobalSection
+EndGlobal
