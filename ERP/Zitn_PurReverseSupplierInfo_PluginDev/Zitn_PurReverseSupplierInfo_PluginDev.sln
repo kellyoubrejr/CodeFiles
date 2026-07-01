@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zitn_PurReverseSupplierInfo_PluginDev", "Zitn_PurReverseSupplierInfo_PluginDev\Zitn_PurReverseSupplierInfo_PluginDev.csproj", "{A63BAC1A-289C-4F16-9637-8605193FC4E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A63BAC1A-289C-4F16-9637-8605193FC4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63BAC1A-289C-4F16-9637-8605193FC4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63BAC1A-289C-4F16-9637-8605193FC4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63BAC1A-289C-4F16-9637-8605193FC4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E225D8AB-52D4-4C8E-A7A8-5AC2A020B100}
+	EndGlobalSection
+EndGlobal
